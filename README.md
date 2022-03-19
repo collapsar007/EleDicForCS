@@ -19,7 +19,7 @@ JDK下载：https://www.oracle.com/java/technologies/downloads/#java8
 4.如想要自行进行爬取数据，需安装配置Python，下载re，pymysql，request，bs4等模块
   运行crowTheData.py,crow02.py,crow01.py进行数据爬取
   
- #############系统使用说明
+##############系统使用说明
  使用查询功能无需登录，使用查询以外如反馈功能或管理功能需登录相应账号取得相应权限登录，账号可注册取得
 
 ##############代码结构
